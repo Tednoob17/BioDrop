@@ -1,0 +1,20 @@
+{
+  "name": "Ted Kouhouenou",
+  "bio": "Open Source Dev | C, Rust, Bash, Python Dev  | Pentester Jr
+  "links": [
+    {
+      
+      "group": "Socials Primary",
+      "name": "Twitter: Follow me",
+      "url": "https://twitter.com/Tedsig",
+      "icon": "FaTwitter",
+      "color": "#00ACEE"
+   
+    }
+    
+    {
+    	"icon": "FaGithub", 
+    	"url": "https://github.com/Tednoob17"	
+    }
+  ]
+}
